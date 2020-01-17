@@ -1,5 +1,4 @@
 # Securing-Your-AI-and-Machine-Learning-Systems
-##Secure your AI/ML models against attackers and threats	
 
 This is the code repository for [Securing Your AI and Machine Learning Systems [Video]](https://www.packtpub.com/in/data/securing-your-ai-and-machine-learning-systems-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
