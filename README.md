@@ -42,7 +42,3 @@ Software: CUDA, Python, Torch, TensorFlow, and Keras<br/>
 * [Mathematical Foundation for AI and Machine Learning [Video]](https://www.packtpub.com/in/application-development/mathematical-foundation-ai-and-machine-learning-video)
 
 * [Building Recommender Systems with Machine Learning and AI [Video]](https://www.packtpub.com/in/application-development/building-recommender-systems-machine-learning-and-ai-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838826451">https://packt.link/free-ebook/9781838826451 </a> </p>
